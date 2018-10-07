@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp1", "NodejsWebApp1\NodejsWebApp1.njsproj", "{B76DD450-793C-4C8D-814A-A53C18392F40}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ICEF_base", "NodejsWebApp1\ICEF_base.njsproj", "{B76DD450-793C-4C8D-814A-A53C18392F40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
